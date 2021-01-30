@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yulikepython/tailwindcss_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yulikepython/tailwindcss_tutorial/issues"
+  },
+  "homepage": "https://github.com/Yulikepython/tailwindcss_tutorial#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
